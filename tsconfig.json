@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+      
+      "types": ["web-vitals", "node", "jest"],
+      
+      "module": "commonjs",
+      "target": "es6",
+      "jsx": "react-jsx",
+      "strict": true,
+      "esModuleInterop": true,
+      "skipLibCheck": true,
+      "forceConsistentCasingInFileNames": true
+    },
+    "include": ["src"]
+  }
+  
